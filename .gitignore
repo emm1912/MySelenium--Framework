@@ -1,0 +1,9 @@
+venv/*
+*.pyc
+*.log
+logs/*
+utilites/__pycache__/*
+testcases/.pytest_cache/*
+testcases/__pycache__/*
+pageObjects/__pycache__/*
+.idea/*
