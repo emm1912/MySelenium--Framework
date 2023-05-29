@@ -1,0 +1,2 @@
+To run all the test from testcases, generate a html report and use firefox use:
+pytest test_setup.py testcases --html=reports/report.html -v -rA --browser firefox
