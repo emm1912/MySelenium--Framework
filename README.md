@@ -1,4 +1,5 @@
 # MySeleniumAutomation-Framework V1.0 23-MAY-2023
+###### Note. In branch "experiments" you will find that the html-report maker is working, you will find some new methods, one more automation example and now you can select which browser you want to use from the cli.
 Well in the search of having a broader view in the the world of software development, a very good friend of mine recommended me to investigate about software automation and more 
 precisely to search about "Selenium" and "Postman" (this last one, as I have also been using django lately to make some simple API's applications), so after researching
 and reading a lot of info/documentation I came to the conclusion that I needed to build a selenium Framework, first and foremost to simplify the automation of test's.
